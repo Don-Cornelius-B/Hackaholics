@@ -59,6 +59,6 @@ Welcome to **Crop-Way**, your intelligent companion for making smarter crop deci
 
 | Frontend | Backend | Database | APIs/Extras |
 |----------|---------|----------|-------------|
-| [e.g., React / Flutter] | [e.g., Node.js / Express] | [e.g., Firebase / MongoDB] | [OpenWeatherMap, Government Agri APIs (if any), Mock Data Sources] |
+| [e.g., HTML / CSS / JavaScript] | [e.g., Django] | [e.g., MySQL] | [OpenWeatherMap, Government Agri APIs (if any), Mock Data Sources] |
 
 ---
